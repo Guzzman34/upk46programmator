@@ -1,0 +1,63 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega8"</DEVICE>
+ <WORKING_DIR>d:\Projects\AVR\upk46prog\upk46prog\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m8def.inc</FILE>
+  <FILE>d:\Projects\AVR\upk46prog\upk46prog\macro.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>d:\Projects\AVR\upk46prog\upk46prog\Debug\upk46prog.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>upk46prog.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>upk46prog.map</FILE>
+  <FILE>upk46prog.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <IN_BUFF><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>33</LINE></IN_BUFF>
+  <IN_PTR_S><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>34</LINE></IN_PTR_S>
+  <IN_PTR_E><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>35</LINE></IN_PTR_E>
+  <IN_FULL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>36</LINE></IN_FULL>
+  <OUT_BUFF><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>38</LINE></OUT_BUFF>
+  <OUT_PTR_S><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>39</LINE></OUT_PTR_S>
+  <OUT_PTR_E><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>40</LINE></OUT_PTR_E>
+  <OUT_FULL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>41</LINE></OUT_FULL>
+  <DELAY_FL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>47</LINE></DELAY_FL>
+  <DELAY_CNT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>48</LINE></DELAY_CNT>
+  <RESET><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>403</LINE></RESET>
+  <TOV0_F><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>292</LINE></TOV0_F>
+  <RX_U0><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>184</LINE></RX_U0>
+  <DR_U0><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>238</LINE></DR_U0>
+  <TX_U0><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>228</LINE></TX_U0>
+  <CASE1><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>116</LINE></CASE1>
+  <DELAY_MS><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>140</LINE></DELAY_MS>
+  <OUT_I2C><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>118</LINE></OUT_I2C>
+  <QUERY_PROC><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>155</LINE></QUERY_PROC>
+  <DELAY_OUT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>176</LINE></DELAY_OUT>
+  <NO_END><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>208</LINE></NO_END>
+  <RX_OUT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>215</LINE></RX_OUT>
+  <RX_FULL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>212</LINE></RX_FULL>
+  <NEED_SND><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>262</LINE></NEED_SND>
+  <TX_OUT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>278</LINE></TX_OUT>
+  <STEP_UP><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>311</LINE></STEP_UP>
+  <OUT_TOV0><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>314</LINE></OUT_TOV0>
+  <BUFF_PUSH><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>324</LINE></BUFF_PUSH>
+  <_NoEnd><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>344</LINE></_NoEnd>
+  <_RX_OUT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>352</LINE></_RX_OUT>
+  <_RX_FULL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>348</LINE></_RX_FULL>
+  <BUFF_POP><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>364</LINE></BUFF_POP>
+  <NeedPop><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>380</LINE></NeedPop>
+  <_TX_OUT><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>396</LINE></_TX_OUT>
+  <LOOP><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>482</LINE></LOOP>
+  <LOOP_DL><FILE>d:\Projects\AVR\upk46prog\upk46prog\main.asm</FILE><LINE>487</LINE></LOOP_DL>
+ </LABELS>
+</ASSEMBLER_INFO>
